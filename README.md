@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lucaseg
+- 👋 Hi, I’m @lucaseg, I'm Telecomunication engginer, currently i'm working at Marcadolibre in the area of Fraud Prevention for Fintech like SSr. Backend Developer, my main responsibilities are develop and maintain microservices.
 - 👀 I’m interested in learn about crypto currencies and the lenguage to develop aplications in this field.
 - 🌱 I’m currently improving my Englis.
-
-Currently i am working at Marcadolibre like Backend Developer.
 
 My lenguages skils:
 - Golang (Gingonic)
