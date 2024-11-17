@@ -8,8 +8,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-- 👋 Hi, I’m @lucaseg, I'm Telecomunication engginer, currently i'm working at Marcadolibre in the area of Fraud Prevention for Fintech like SSr. Backend Developer, my main responsibilities are develop and maintain microservices.
+Hi, I’m Lucas Gonzalez, I'm Telecomunication engginer, currently I'm working at Marcadolibre in the area of Fraud Prevention for Fintech like SSr. Backend Developer, my main responsibilities are develop and maintain microservices.
 - 🌱 I’m currently improving my Englisg.
 
 My lenguages skils:
